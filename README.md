@@ -18,11 +18,9 @@ A simple and customizable Android Alert Dialog example created using Jetpack Com
 
 Alert Dialogs are a crucial part of any Android application's user interface. They are used to convey important information, warnings, or request user input. This project showcases how to create and utilize a custom Alert Dialog using Jetpack Compose, Google's modern Android UI toolkit.
 
-## Getting Started
-
 To use or contribute to this project, follow these steps:
 
-1. Clone this repository to your local machine:
+ Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/saad100104006/AlertDialogCompose.git
